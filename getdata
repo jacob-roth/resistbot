@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+wget https://mappingpoliceviolence.org/s/MPVDatasetDownload.xlsx

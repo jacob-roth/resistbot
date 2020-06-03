@@ -1,2 +1,3 @@
-# resistbot
-volunteer work for resistbot
+## to-use
+1. download [`julia`](https://julialang.org/downloads/)
+2. 
